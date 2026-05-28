@@ -108,7 +108,7 @@ namespace KjkTuzhegy
 
         static int Kockadobas(int darab = 1)
         {
-            int osszeg = 1;
+            int osszeg = 0;
             for (int i = 0; i < darab; i++)
             {
                 osszeg += rnd.Next(1, 7);
