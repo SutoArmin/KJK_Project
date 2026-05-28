@@ -1,0 +1,14 @@
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.AssemblyInfoInputs.cache
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.AssemblyInfo.cs
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\bin\Debug\net8.0\KJK_Projekt.exe
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\bin\Debug\net8.0\KJK_Projekt.deps.json
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\bin\Debug\net8.0\KJK_Projekt.runtimeconfig.json
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\bin\Debug\net8.0\KJK_Projekt.dll
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\bin\Debug\net8.0\KJK_Projekt.pdb
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.dll
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\refint\KJK_Projekt.dll
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.pdb
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\KJK_Projekt.genruntimeconfig.cache
+C:\Users\sutoa\source\repos\KJK_Projekt\KJK_Projekt\obj\Debug\net8.0\ref\KJK_Projekt.dll
