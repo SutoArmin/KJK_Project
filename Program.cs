@@ -106,7 +106,7 @@ namespace KjkTuzhegy
             Console.ResetColor();
         }
 
-        static int Kockadobas(int darab = 0)
+        static int Kockadobas(int darab = 1)
         {
             int osszeg = 0;
             for (int i = 0; i < darab; i++)
